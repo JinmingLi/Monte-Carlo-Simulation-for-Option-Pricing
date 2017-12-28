@@ -1,13 +1,9 @@
 // HardCoded.cpp
 //
 // C++ code to price an option, essential algorithms.
-//
 // We take CEV model with a choice of the elaticity parameter
-// and the Euler method. We give option price and number of times
-// S hits the origin.
-//
-// (C) Datasim Education BC 2008-2011
-//
+// and the Euler method. We give option price and number of times S hits the origin.
+
 
 #include "OptionData.hpp" 
 #include "UtilitiesDJD/RNG/NormalGenerator.hpp"

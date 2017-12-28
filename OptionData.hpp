@@ -1,8 +1,5 @@
 // OptionData.hpp
 //
-// Encapsulate option data.
-//
-// (C) Datasim Education BV 2008-2011
 
 #ifndef OptionData_HPP
 #define OptionData_HPP
